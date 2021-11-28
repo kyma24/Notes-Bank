@@ -1,0 +1,7 @@
+-   [](https://www.w3schools.com/html/html_css.asp)[https://www.w3schools.com/html/html\_css.asp](https://www.w3schools.com/html/html_css.asp)
+-   [webflow.com](http://webflow.com)
+-   [](https://studywebdevelopment.com/programming-languages-for-beginners.html)[https://studywebdevelopment.com/programming-languages-for-beginners.html](https://studywebdevelopment.com/programming-languages-for-beginners.html)
+-   [figma.com](http://figma.com)
+-   programming languages
+    -   react
+    -   flutter
