@@ -1,1 +1,0 @@
-https://jontysinai.github.io/jekyll/update/2017/11/11/the-perceptron.html
