@@ -133,7 +133,3 @@
     </body>
     </html>
     ```
-	
--   James Star of the Week (12/17 - 12/18/2020)
-    
-    [](https://repl.it/@6redPanda1001/staroftheweek#index.html)[https://repl.it/@6redPanda1001/staroftheweek#index.html](https://repl.it/@6redPanda1001/staroftheweek#index.html)
